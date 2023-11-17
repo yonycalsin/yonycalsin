@@ -1,4 +1,4 @@
-Hi 👋 My name is Yony Calsin
+Hi 👋 I'm Yony
 ===============================
 
 ![](metrics.plugin.languages.svg)
