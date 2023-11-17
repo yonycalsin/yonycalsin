@@ -4,6 +4,7 @@ on:
   # Schedule updates
   schedule: [{cron: "0 * * * *"}]
   push: {branches: "main"}
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
